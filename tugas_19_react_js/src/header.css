@@ -1,0 +1,33 @@
+.editData{
+    color: white;
+    background-color: green;
+    margin-left: 5px;
+    width: 100px;
+}
+.Delete{
+    color: white;
+    background-color: red;
+    width: 100px;
+}
+.card {
+    padding: 1em;
+    margin-top: 10px;
+    margin-bottom: 1em;
+    border-radius: 20px;
+
+    border: 2px solid black;
+    text-align: left;
+    background-color: white;
+    width: 300px;
+    
+  }
+  .form{
+    margin-right: 5px;
+    width: 200px;
+  }
+  .savedata{
+    width: 200px;
+    color: white;
+    background-color: blue;
+  }
+ 
